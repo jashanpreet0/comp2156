@@ -1,10 +1,11 @@
 name: CI
+run-name: CI workflow
 
 on:
   push:
-    branches: [ "main" ]
+    branches: ["main"]
   pull_request:
-    branches: [ "main" ]
+    branches: ["main"]
 
 jobs:
   build:
@@ -14,5 +15,5 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v4
 
-      - name: CI check
-        run: echo "CI passed successfully"
+      - name: Simple CI check
+        run: echo "CI is working successfully"
