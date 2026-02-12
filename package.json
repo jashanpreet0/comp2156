@@ -4,7 +4,10 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Warning: No tests created yet.\""
+  "start": "react-scripts start",
+  "build": "react-scripts build",
+  "test": "echo \"Error: no test specified\"",
+  "eject": "react-scripts eject"
   },
   "keywords": [],
   "author": "",
@@ -20,9 +23,4 @@
   "react-scripts": "5.0.1",
   "web-vitals": "^2.1.4"
 }
-"scripts": {
-  "start": "react-scripts start",
-  "build": "react-scripts build",
-  "test": "echo \"Error: no test specified\"",
-  "eject": "react-scripts eject"
-}
+
