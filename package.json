@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/jashanpreet0/comp2156/issues"
   },
-  "homepage": "https://github.com/jashanpreet0/comp2156#readme",
+  "homepage": "https://github.com/jashanpreet0/comp2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
