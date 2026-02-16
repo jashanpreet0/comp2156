@@ -2,7 +2,7 @@
   "name": "comp2156",
   "version": "1.0.0",
   "private": true,
-  "homepage": "https://jashanpreet0.github.io/comp2156",
+  "homepage": "https://jashanpreeto.github.io/comp2156",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
@@ -39,6 +39,6 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.1.1"
+    "gh-pages": "^6.0.0"
   }
 }
